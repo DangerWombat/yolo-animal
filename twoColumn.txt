@@ -1,0 +1,16 @@
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+  <td><b>I'm only interested in select, specific areas of science</b></td>
+  <td width="40%">&nbsp;</td>
+  <td style="text-align: right"><b>I can get interested in almost any topic in science</b></td>
+</tr>
+
+Grid Header - Hide Rows - SA04
+
+
+
+
+
+Where would you put yourself on each of the following scales when it comes to issues or causes you care about?  
+
+Click all the way to the left if that statement describes you best and click all the way to the right if that statement describes you the best.  Click somewhere in the middle if that describes you best.  

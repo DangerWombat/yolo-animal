@@ -1,0 +1,38 @@
+-PUT IN HEADER!!! BELOW embed code-
+
+        <!-- ****************************************** --> 
+        <!-- Function and invocation necessary for      -->
+        <!-- hiding and showing (after preset time) the --> 
+        <!-- 'next' button                              -->
+        <!-- ****************************************** -->
+        <script type="text/javascript">
+            
+            function loadPageWithHiddenSubmit() 
+            {
+                // Hide the submitButton - note that this assumes that
+                // the relevant form is the first form on the page
+                document.getElementById("next_button").style.visibility = "hidden";
+                
+                // The setTimeout will invoke the Javascript specfied in quotes
+                // as the first argument after a delay of XX milliseconds (the 
+                // second argument) - the example specifies 5 seconds -- specifically 
+                // to show the submit button
+                setTimeout("document.getElementById(\"next_button\").style.visibility=\"visible\"", 5000); 
+            }
+            
+            var intervalChecker;
+            
+            function checkForSubmitButton()
+            {
+                if ("undefined" != typeof(document.getElementById ("next_button"))) {
+                    intervalChecker=window.clearInterval(intervalChecker);
+                    loadPageWithHiddenSubmit();
+                 }
+            }
+            
+            intervalChecker = window.setInterval("checkForSubmitButton()", 50);
+            
+        </script>
+        <!-- END -->
+
+-END HEADER-

@@ -1,0 +1,6 @@
+<script type="text/javascript">
+window.onload=function(){
+var elm= document.getElementById('next_button');
+elm.className='hidden';
+}
+</script>

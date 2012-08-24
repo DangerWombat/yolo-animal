@@ -1,0 +1,13 @@
+Reference FN40 Food Network - Food Connected Survey
+
+Example:
+
+Q42
+In Variables/Question HTML
+
+Variable Names:
+Q42_A | text(Text Box), Response Required, Max Characters 45, Error Text blank
+Q42_B | text(Text Box), Response Required, Max Characters 45, Error Text blank
+
+HTML:
+<b><i>Without food TV (or food media), I’d be less </i><u></b><i>____</i><INPUT TYPE="text" NAME="Q42_A" SIZE="30"><i>_____</u> <b>as an eater, and less</b> <u>____</i><INPUT TYPE="text" NAME="Q42_B" SIZE="30"><i>_____</u> <b>as a cook.<u></i>

@@ -1,0 +1,28 @@
+Format Listlabels see II09: The Sharing Economy 42 for reference. Use instead of ListLabelArray.
+
+<ul>[% FormatListLabels(Links,"<li>","</li>") %]</ul>
+
+Links is a constructed list
+
+
+*/--------------------------------------------------------------------------------/*
+
+
+FormatListLabels (LISTNAME, "BEFORETEXT", "AFTERTEXT") 
+
+
+Returns a string with all list items joined together with "BeforeText" before each item and "AfterText" after each item. 
+
+For example "<li>" and "</li>" as BeforeText and AfterText returns a bulleted list. 
+
+In the generic example above everything in all caps needs to be replaced.
+
+
+*/--------------------------------------------------------------------------------/*
+
+[%DisplayListLabels(comp,",","and")%]
+
+DisplayListLabels (ListName, "SeparatorText", 
+  "FinalSeparatorText") 
+
+Returns a string with every list item separated by "SeparatorText" with "FinalSeparatorText" prior to the last list item. For example: DisplayListLabels (fruitlist, "," , "and") returns: grape, peach, and cherry. 

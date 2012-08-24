@@ -1,0 +1,18 @@
+Links WIth Passthrough Variables:
+
+
+Amazon
+http://www.latdsurvey.com/mtv65/cgi-bin/ciwweb.pl?studyname=MTV65&ftouch=Dan&id=YF
+
+E-Rewards:
+http://www.latdsurvey.net/nb31/cgi-bin/ciwweb.pl?studyname=NB31&ftouch=Dan&id=Rocks!
+
+
+U-Samp:
+http://www.latdsurvey.net/mtv4/cgi-bin/ciwweb.pl?studyname=MTV4&ID=Dan
+
+Safecount:
+http://www.latdsurvey.net/mtv4/cgi-bin/ciwweb.pl?studyname=MTV4&sc_member_id=67890123&sc_survey_num=555612sc_from_site=11&sc_from_aicode=123456&sc_exposed_control=1&sc_frequency=6&sc_exp1=123456-11-3&sc_exp2=123457-9-2&sc_exp3=123456-9-1&sc_rep_usr=0
+
+GMI:
+http://www.latdsurvey.com/meta3/cgi-bin/ciwweb.pl?studyname=META3&ac=TEST

@@ -1,0 +1,32 @@
+			Footer:
+<br><br>If you have any questions, or experience any technical difficulties with this survey, please <a href="mailto:survey@latd.com?subject=MTV50 02-12 [%id%]">click here</a> to contact us.
+
+
+			1st Error Message:
+Please answer the question entirely and click the Next button again.
+
+
+ 		Research Now / E-Rewards Term Links:
+https://www.e-rewards.com/complete.do?ftouch=[%ftouch%]&id=[%id%]
+
+https://www.e-rewards.com/terminate.do?ftouch=[%ftouch%]&id=[%id%]
+
+https://www.e-rewards.com/overquota.do?ftouch=[%ftouch%]&id=[%id%]
+
+
+
+
+			Server Settings:
+../admin/
+../fn40/cgi-bin/
+../data/
+../graphics/
+graphics/
+
+
+			Old E-Rewards Term Links:
+https://www.e-rewards.com/complete.do?ftouch=[%ftouch%]&PIN=[%PIN%]
+
+https://www.e-rewards.com/terminate.do?ftouch=[%ftouch%]&PIN=[%PIN%]
+
+https://www.e-rewards.com/overquota.do?ftouch=[%ftouch%]&PIN=[%PIN%]
